@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mujaheed</h1>
-<h3 align="center">A Aspiring Web developer</h3>
+<h3 align="center">An Aspiring Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujaheed13&label=Profile%20views&color=0e75b6&style=flat" alt="mujaheed13" /> </p>
 

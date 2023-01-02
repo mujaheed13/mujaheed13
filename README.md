@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujaheed13&label=Profile%20views&color=0e75b6&style=flat" alt="mujaheed13" /> </p>
 
-- 🌱 I’m currently learning **NODE JS**
+- 🌱 I’m currently learning **NodeJS, ExpressJS & MongoDB **
 
 - 📫 How to reach me **mrmujaheed13@gmail.com**
 

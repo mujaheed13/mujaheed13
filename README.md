@@ -46,8 +46,6 @@
 
 <br/>  
 
-<a target="_blank" ><img alt="Mujaheed Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mujaheed13&theme=react-dark&hide_border=true" /></a>
-
 
 ## Connect with me  
 <div align="center">
@@ -65,6 +63,10 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mujaheed13&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+<a target="_blank" ><img alt="Mujaheed Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mujaheed13&theme=react-dark&hide_border=true" /></a>
+
 
 <br/>  
 

@@ -46,6 +46,8 @@
 
 <br/>  
 
+<a target="_blank" ><img alt="Mujaheed Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mujaheed13&theme=react-dark&hide_border=true" /></a>
+
 
 ## Connect with me  
 <div align="center">

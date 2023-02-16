@@ -62,7 +62,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mujaheed13&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mujaheed13&theme=algolia" alt="">
+</div>
+<div align="center">
+<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujaheed13&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+</div>
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=mujaheed13&show_icons=true&theme=algolia" alt="">
+</div>
 
 
 <a target="_blank" ><img alt="Mujaheed Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=mujaheed13&theme=react-dark&hide_border=true" /></a>

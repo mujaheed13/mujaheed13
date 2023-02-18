@@ -5,7 +5,7 @@
 </div>  
   
 
-- 🌱 I’m currently learning Node.js, Express.js & MongoDB  
+- 🌱 I’m currently learning Node.js, Express.js, MongoDB & SQL  
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies  

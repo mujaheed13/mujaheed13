@@ -5,7 +5,6 @@
 </div>  
   
 
-- 🌱 I’m currently learning Next.js & React.js
   
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
